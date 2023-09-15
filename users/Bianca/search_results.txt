@@ -1,0 +1,18 @@
+File   : Camus_slides_1_2_3.pptx
+Slides : 2
+
+File   : 02-Intro_PPT_Exemple.pptx
+Slides : 1, 2, 3, 6, 7, 10, 11, 12, 13, 14, 15, 16
+
+File   : MHCG1321_SeanceTP1.pptx
+Slides : 9, 15
+
+File   : CIOBANICA_BIANCA_USLB.pptx
+Slides : 6, 7, 9, 11, 15
+
+File   : PPT_1.pptx
+Slides : 1, 5, 7, 15
+
+File   : MHCG1321_SeanceTP67_ProgressionThematiqueStructureInformationnelle.pptx
+Slides : 3, 9, 15
+
