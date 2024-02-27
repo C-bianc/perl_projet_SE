@@ -23,4 +23,6 @@
 # Dependencies
 Archive::Zipopenai, FindBin, File::Basename, File::Spec, Mojo::Upload, JSON, File::Slurp, Mojo::Util, Data::Dumper, File::Basename, File::Spec::Functions, FindBin, File::Path, Mojolicious::Plugin::Session, PptxDB, Indexer
 
+# Problems
+Pictures are not showing.
         
