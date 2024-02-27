@@ -2,22 +2,21 @@
 `morbo project_page.pl`
 
 # Project structure
-- MD
-  - bin
-    - recherche.pl
-  - decompressed_data
-  - file_uploads
-  - indexdb
-  - lib
-    - Extraction.pm
-    - Indexer.pm
-    - ParseXml.pm
-    - PptToPptx.pm
-    - PptxDB.pm
-  - public
-    - logoucl.jfif
-  - users
-    - users.json
+- bin
+  - recherche.pl
+- decompressed_data
+- file_uploads
+- indexdb
+- lib
+  - Extraction.pm
+  - Indexer.pm
+  - ParseXml.pm
+  - PptToPptx.pm
+  - PptxDB.pm
+- public
+  - logoucl.jfif
+- users
+  - users.json
 
 
 # Dependencies
